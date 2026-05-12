@@ -1,0 +1,6 @@
+train: /home/v.skorikov/Introduction-to-AI/Lab3/Dataset/train_fixed.txt
+val: /home/v.skorikov/Introduction-to-AI/Lab3/Dataset/validation_fixed.txt
+test: /home/v.skorikov/Introduction-to-AI/Lab3/Dataset/test_fixed.txt
+
+nc: 1
+names: ['Plane']

@@ -1,0 +1,5 @@
+/home/v.skorikov/Introduction-to-AI/Lab3/Dataset/img/GBG_476.jpg
+/home/v.skorikov/Introduction-to-AI/Lab3/Dataset/img/GBG_502.jpg
+/home/v.skorikov/Introduction-to-AI/Lab3/Dataset/img/SIN_023.jpg
+/home/v.skorikov/Introduction-to-AI/Lab3/Dataset/img/GBG_021.jpg
+/home/v.skorikov/Introduction-to-AI/Lab3/Dataset/img/GBG_561.jpg
